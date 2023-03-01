@@ -1,11 +1,12 @@
 package com.tutorial;
 
 public class Mahasiswa extends Orangtua {
-    String nama;
-    String nim;
+     private String nama;
+     private String nim;
 
 
-    public Mahasiswa(String nama, String nim) {
+    public Mahasiswa(String nama, String nim, int umur) {
+        super(nama, umur);
         this.nama = nama;
         this.nim = nim;
     }
