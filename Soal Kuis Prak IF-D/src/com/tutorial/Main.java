@@ -12,7 +12,7 @@ public class Main {
     public static void main(String[] args) {
 
         /*
-        * Masukkan Nama pada variabel nama dan 4 Angka terakhir NIM pada variabel plat kendaraan
+        * Masukkan Nama pada variabel nama dan 3 Angka terakhir NIM pada variabel plat kendaraan
         * Contoh:
         * nama: Dwika Putra
         * NIM: 123200112 (0112)

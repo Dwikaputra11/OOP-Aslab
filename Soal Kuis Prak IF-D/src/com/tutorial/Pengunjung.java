@@ -3,15 +3,15 @@ package com.tutorial;
 public class Pengunjung {
     private final int jamMasuk;
     private final int jamKeluar;
-    private final String nama;
+    private final String namaPengunjung;
     private final String platKendaraan;
     private final String strip = "-".repeat(40);
 
 
-    public Pengunjung(int jamMasuk, int jamKeluar, String nama, String platKendaraan) {
+    public Pengunjung(int jamMasuk, int jamKeluar, String namaPengunjung, String platKendaraan) {
         this.jamMasuk = jamMasuk;
         this.jamKeluar = jamKeluar;
-        this.nama = nama;
+        this.namaPengunjung = namaPengunjung;
         this.platKendaraan = platKendaraan;
     }
 
