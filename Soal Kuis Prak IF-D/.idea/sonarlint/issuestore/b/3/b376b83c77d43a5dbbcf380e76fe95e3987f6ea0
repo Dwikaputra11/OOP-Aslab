@@ -1,0 +1,23 @@
+
+v	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(²ÀØ8Å—Ìëğ0
+X	java:S125"<This block of commented-out lines of code should be removed.(µûñÅ8Ê—Ìëğ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(„òÆ şÿÿÿÿ8Ê—Ìëğ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(„Ôß£8Ê—Ìëğ0
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(„òÆ şÿÿÿÿ8Ê—Ìëğ0
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(Ì“›¨8Ê—Ìëğ0
+T	java:S106""9Replace this use of System.out or System.err by a logger.(ìãàr8Ë—Ìëğ0
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(ìÁ¬Ö8Ë—Ìëğ0
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(×Ìşıúÿÿÿÿ8Ë—Ìëğ0
+T	java:S106%"9Replace this use of System.out or System.err by a logger.(¥ÖC8Ë—Ìëğ0
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ø™õ°şÿÿÿÿ8Ë—Ìëğ0
+9
+java:S6205/"Remove this redundant block.(ÁŸò8Ì—Ìëğ0
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(â€¸ƒ8Ì—Ìëğ0
+9
+java:S62052"Remove this redundant block.(üØô8Ì—Ìëğ0
+T	java:S1063"9Replace this use of System.out or System.err by a logger.(â¯ìZ8Ì—Ìëğ0
+Z
+java:S1128"=Remove this unused import 'java.util.PropertyResourceBundle'.(ä÷¶¾8ˆø‰ìğ0
+K
+java:S1068
+".Remove this unused "pengunjung" private field.(ˆ¡ô†8®®Îëğ0

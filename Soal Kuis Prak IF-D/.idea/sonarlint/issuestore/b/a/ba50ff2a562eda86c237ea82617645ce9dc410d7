@@ -1,0 +1,22 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(„ςΖ ώÿÿÿÿ8Ξιµλπ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ†εβ8Ξιµλπ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(„ςΖ ώÿÿÿÿ8Οιµλπ0
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(™Γφ=8Οιµλπ0
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(¦ίÒύÿÿÿÿ8Οιµλπ0
+U	java:S106""9Replace this use of System.out or System.err by a logger.(τζ‘π8Οιµλπ0
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(¦ζ·ώÿÿÿÿÿ8Οιµλπ0
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(„ςΖ ώÿÿÿÿ8Οιµλπ0
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(Ύ—τϊÿÿÿÿ8Οιµλπ0
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(„ςΖ ώÿÿÿÿ8Οιµλπ0
+T	java:S1066"9Replace this use of System.out or System.err by a logger.(™Γφ=8Οιµλπ0
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(¦ίÒύÿÿÿÿ8Οιµλπ0
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(»’…ªόÿÿÿÿ8Οιµλπ0
+N
+java:S1068",Remove this unused "jamMasuk" private field.(ΫξΑάψÿÿÿÿ8Ριµλπ0
+O
+java:S1068"-Remove this unused "jamKeluar" private field.(χΰνϊψÿÿÿÿ8Ριµλπ0
+T
+java:S1068"2Remove this unused "namaPengunjung" private field.(®δ΅ÿÿÿÿÿ8Ò™‰μπ0
+N
+java:S1068"1Remove this unused "platKendaraan" private field.(δϊΐΔ8Ριµλπ0
